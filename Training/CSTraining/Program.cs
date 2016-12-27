@@ -10,6 +10,7 @@ namespace CSTraining
     {
         static void Main(string[] args)
         {
+            System.Console.Out.WriteLine("Hello, CS~!");
         }
     }
 }
