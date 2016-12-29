@@ -1,1 +1,1 @@
-print "Branch is not a master"
+print("Branch is not a master")
