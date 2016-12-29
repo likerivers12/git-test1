@@ -1,1 +1,1 @@
-print "Master is the Master"
+print("Master is the Master")

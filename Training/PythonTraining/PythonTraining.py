@@ -1,4 +1,4 @@
 
-print "Hello World~!"
+print("Hello World~!")
 
-print "Training/PythonTraining/PythonTraining.py"
+print("Training/PythonTraining/PythonTraining.py")
