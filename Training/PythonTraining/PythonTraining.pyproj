@@ -25,6 +25,9 @@
     <Compile Include="BranchisNotaMaster.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="HelloMaster.py" />
+    <Compile Include="HelloPython.py" />
+    <Compile Include="HiMaster.py" />
     <Compile Include="MasterIsMaster.py">
       <SubType>Code</SubType>
     </Compile>
