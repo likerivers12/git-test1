@@ -22,6 +22,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="BranchisNotaMaster.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MasterIsMaster.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PythonTraining.py" />
     <Compile Include="Training.py">
       <SubType>Code</SubType>
